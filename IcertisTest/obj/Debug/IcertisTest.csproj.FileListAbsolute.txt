@@ -1,0 +1,7 @@
+C:\Code\IcertisTest\IcertisTest\IcertisTest\bin\Debug\IcertisTest.exe.config
+C:\Code\IcertisTest\IcertisTest\IcertisTest\bin\Debug\IcertisTest.exe
+C:\Code\IcertisTest\IcertisTest\IcertisTest\bin\Debug\IcertisTest.pdb
+C:\Code\IcertisTest\IcertisTest\IcertisTest\obj\Debug\IcertisTest.csprojAssemblyReference.cache
+C:\Code\IcertisTest\IcertisTest\IcertisTest\obj\Debug\IcertisTest.csproj.CoreCompileInputs.cache
+C:\Code\IcertisTest\IcertisTest\IcertisTest\obj\Debug\IcertisTest.exe
+C:\Code\IcertisTest\IcertisTest\IcertisTest\obj\Debug\IcertisTest.pdb
